@@ -1,4 +1,2 @@
-# piccup
-# piccup
-# piccup
-# piccup
+# piccup - React Native Event Management App
+
