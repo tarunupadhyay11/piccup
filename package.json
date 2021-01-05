@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@okgrow/react-native-copilot": "^2.4.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "native-base": "^2.12.1",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
